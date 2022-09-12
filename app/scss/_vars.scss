@@ -1,0 +1,41 @@
+$accent: #FF6838;
+$text: #363853;
+$defaul: #31352B;
+$white: #ffffff;
+$focus: #FF7A50;
+
+
+%rubik-400 {
+  font-family: 'Rubik-Regular', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+%rubik-500 {
+  font-family: 'Rubik-Medium', sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+%rubik-300 {
+  font-family: 'Rubik-Light', sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+%rubik-italic {
+  font-family: 'Rubik-Italic', sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+%hover {
+  background: rgba(255, 122, 80, 0.1);
+  box-shadow: 0px 0px 0px 2px rgba(255, 104, 56, 0.7);
+}
+
+%bgimg {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
